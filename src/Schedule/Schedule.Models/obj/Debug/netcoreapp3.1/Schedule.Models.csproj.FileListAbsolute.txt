@@ -1,0 +1,9 @@
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\bin\Debug\netcoreapp3.1\Schedule.Models.deps.json
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\bin\Debug\netcoreapp3.1\Schedule.Models.dll
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\obj\Debug\netcoreapp3.1\Schedule.Models.csprojAssemblyReference.cache
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\obj\Debug\netcoreapp3.1\Schedule.Models.AssemblyInfoInputs.cache
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\obj\Debug\netcoreapp3.1\Schedule.Models.AssemblyInfo.cs
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\bin\Debug\netcoreapp3.1\Schedule.Models.pdb
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\obj\Debug\netcoreapp3.1\Schedule.Models.csproj.CoreCompileInputs.cache
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\obj\Debug\netcoreapp3.1\Schedule.Models.dll
+D:\ShehrozeGul\ScheduleFluter\ScheduleApi\Schedule\Schedule.Models\obj\Debug\netcoreapp3.1\Schedule.Models.pdb
